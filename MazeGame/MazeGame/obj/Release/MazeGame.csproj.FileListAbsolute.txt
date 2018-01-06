@@ -1,0 +1,10 @@
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\bin\Release\MazeGame.exe.config
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\bin\Release\MazeGame.exe
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\bin\Release\MazeGame.pdb
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.Form1.resources
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.Form2.resources
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.Form3.resources
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.Properties.Resources.resources
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.csproj.GenerateResource.Cache
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.exe
+c:\users\jackpopkin\documents\visual studio 2013\Projects\MazeGame\MazeGame\obj\Release\MazeGame.pdb
